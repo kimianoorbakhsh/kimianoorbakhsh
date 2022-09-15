@@ -1,9 +1,9 @@
 ### Hi there, This is Kimia 👋
 
 - 🔭 Research Projects: 
-  - [Counterfactual Temporal Point Processes](https://github.com/Networks-Learning/counterfactual-tpp)
+  - [Counterfactual Temporal Point Processes (NeurIPS 2022)](https://github.com/Networks-Learning/counterfactual-tpp)
   - [Pretrained Language Models are Symbolic Mathematics Solvers too](https://github.com/softsys4ai/differentiable-proving)
-  - [LPF-Defense: 3D Adversarial Defense based on Frequency Analysis](https://github.com/kimianoorbakhsh/LPF-Defense)
+  - [LPF-Defense: 3D Adversarial Defense based on Frequency Analysis (PLoS ONE)](https://github.com/kimianoorbakhsh/LPF-Defense)
 
 - 📚 University Projects: 
   - [Interpreter for Python using Racket Language](https://github.com/kimianoorbakhsh/small-python-racket-interpreter)
