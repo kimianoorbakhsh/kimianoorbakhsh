@@ -19,7 +19,7 @@ Feel free to get in touch 😊
             <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
         </a>
         <a href="https://www.semanticscholar.org/author/Kimia-Noorbakhsh/2131108591">
-            <img src="semantic-scholar.svg" width=32/>
+            <img src="semantic_scholar.png" width=32/>
         </a>
 </div>
 
