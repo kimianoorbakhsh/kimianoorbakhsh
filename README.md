@@ -2,7 +2,7 @@
 
 - 🔭 Research Projects: 
   - [Counterfactual Temporal Point Processes (NeurIPS 2022)](https://github.com/Networks-Learning/counterfactual-tpp)
-  - [Pretrained Language Models are Symbolic Mathematics Solvers too](https://github.com/softsys4ai/differentiable-proving)
+  - [Pretrained Language Models are Symbolic Mathematics Solvers too!](https://github.com/softsys4ai/differentiable-proving)
   - [LPF-Defense: 3D Adversarial Defense based on Frequency Analysis (PLoS ONE)](https://github.com/kimianoorbakhsh/LPF-Defense)
 
 - 📚 Some University Projects: 
