@@ -7,8 +7,8 @@
 
 - 📚 University Projects: 
   - [Interpreter for Python using Racket Language](https://github.com/kimianoorbakhsh/small-python-racket-interpreter)
-  - [Compiler for C Minus using Python](https://github.com/ahmadsalimi/CMinusCompiler)
-  - [Matrix Multiplier Module using Verilog](https://github.com/kimianoorbakhsh/Verilog-Matrix-Multiplier)
+  - [Compiler for C-Minus using Python](https://github.com/ahmadsalimi/CMinusCompiler)
+  - [Fast Matrix Multiplier Module using Verilog](https://github.com/kimianoorbakhsh/Verilog-Matrix-Multiplier)
   - [Flight-Hotel Reservation System using Flask and PostgreSQL](https://github.com/CE384/Flitel)
   - [Machine Learning Graduate Course Assignments](https://github.com/kimianoorbakhsh/Machine-Learning-CE717)
   - [Aritificial Intelligence Course Assignments](https://github.com/kimianoorbakhsh/Artificial-Intelligence-CE417)
